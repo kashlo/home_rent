@@ -1,0 +1,4 @@
+list: "Список"
+map: "Карта"
+errors:
+    fetchError: "Ошибка загрузки"

@@ -1,0 +1,10 @@
+facilities:
+  fridge: "Fridge"
+  tvset: "TV"
+  boiler: "Boiler"
+  washer: "Washing machine"
+  dishwasher: "Dishwasher machine"
+  vacuum_cleaner: "Vacuum cleaner"
+  kettle: "Electric kettle"
+  microwave: "Microwave"
+  air_conditioner: "Conditioner"

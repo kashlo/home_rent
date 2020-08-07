@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919181857869",
+    "firebase_url": "https://hello-home-5276e.firebaseio.com",
+    "project_id": "hello-home-5276e",
+    "storage_bucket": "hello-home-5276e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919181857869:android:0f5f5f52c7f7fc00c5b804",
+        "android_client_info": {
+          "package_name": "com.example.hellohome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919181857869-a3skdhkdsr8l34c586e7e1616lvr8enb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5cHYXgbbixT5h8JRj3IFYGr4DBSN-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919181857869-a3skdhkdsr8l34c586e7e1616lvr8enb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

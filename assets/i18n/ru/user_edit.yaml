@@ -1,0 +1,6 @@
+list: "Список"
+map: "Карта"
+errors:
+  updateError: "Ошибка обновления"
+info:
+  updateSuccess: "Обьявление обновлено"

@@ -1,0 +1,9 @@
+facilities:
+  fridge: "Холодильник"
+  tvset: "Телевізор"
+  boiler: "Бойлер"
+  washer: "Стиральна машина"
+  dishwasher: "Посудомиїчна машина"
+  vacuum_cleaner: "Пилосос"
+  kettle: "Электрочайник"
+  microwave: "Мікровхвильва піч"
